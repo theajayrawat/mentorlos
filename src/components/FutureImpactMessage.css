@@ -1,0 +1,54 @@
+.fitxt{
+    font-family: Mint Grotesk Trial;
+font-size: 42px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0px;
+text-align: center;
+
+
+}
+.topdiv{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.crousel{
+    margin: 10px;
+}
+.cont{
+    padding: 40px;
+}
+.inner{
+    padding: 20px;
+    margin:10px;
+    border-radius: 10px;
+}
+.inner_txt_2{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.inner_txt_1{
+    font-family: Mint Grotesk Trial;
+    margin-bottom: 12px;
+font-size: 20px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.bb{
+    background-color: blue;
+    color: white;;
+}
+
+@media only screen and (max-width: 600px) {
+   .crousel{
+    display: none;
+   }
+  }

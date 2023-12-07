@@ -1,0 +1,27 @@
+/* App.css */
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  
+} 
+.d-flex{
+  display: flex;
+}
+.d-flex-sb{
+  display: flex;
+  justify-content: space-between;
+}
+.d-cent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont{
+  padding: 40px;
+}
+/* You can also define additional styles for other elements in your app if needed */
+.m-20{
+  margin-bottom: 20px;
+}

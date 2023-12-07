@@ -1,0 +1,72 @@
+.wM{
+     /* background: linear-gradient(270deg, #012DA3 36.27%, #0896FF 111.28%);
+    ; */
+    background-color: blue;
+    color: white;
+    padding-top: 40px;
+}
+.heading{
+    font-family: Mint Grotesk Trial;
+font-size: 42px;
+font-weight: 600;
+line-height: 46px;
+letter-spacing: 0px;
+text-align: center;
+color: white;
+
+}
+.p-h-txt{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+color: white;
+}
+.inner_txt{
+    font-family: Mint Grotesk Trial;
+font-size: 20px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.d-flex3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.inner1{
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    padding: 20px;
+
+  
+  }
+  .back{
+    
+border-radius: 8px;
+border: 0px, 0px, 4px, 0px;
+background-color: rgb(65, 68, 250);
+
+
+
+  }
+
+  .outer{
+    padding: 40px;
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .dis{
+     display: none;
+    }
+    
+   }

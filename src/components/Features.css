@@ -1,0 +1,69 @@
+.fea{
+    font-family: Mint Grotesk Trial;
+font-size: 52px;
+font-weight: 600;
+line-height: 57px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.fe123{
+    padding-top: 40px;
+    background-color: rgba(250,250,250,1);
+}
+.fea_txt{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.cont{
+    padding: 40px;
+}
+.ind{
+   
+padding: 20px;
+border-radius: 10px;
+margin: 10px;
+
+}
+.ind_txt{
+    font-family: Mint Grotesk Trial;
+font-size: 22px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.ind_text2{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.cir{
+    border-radius: 50%;
+    margin-bottom: 20px;
+   border: 1px solid black;
+   display: flex;
+   justify-content: center;
+   width: 30px;
+   height: 30px;
+   align-items: center;
+   text-align: center;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .f2{
+     display: none;
+    }
+    
+   }
