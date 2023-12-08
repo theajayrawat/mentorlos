@@ -7,6 +7,7 @@ import MentorshipProgramBanner from "./components/MentorshipProgramBanner";
 import MentorshipProgramBenefits from "./components/MentorshipProgramBenefits";
 import Navbar from "./components/Navbar";
 import WhyChooseMentorlo from "./components/WhyChooseMentorlo";
+import GetInTouch from "./components/GetInTouch";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
        <Features />
        <FutureImpactMessage />
        {/* <JoinMentorlo /> */}
+       <GetInTouch/>  
        <Footer />
     </div>
   );

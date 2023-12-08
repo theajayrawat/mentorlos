@@ -1,0 +1,62 @@
+.main{
+    background-color: black;
+    color: white;
+    height: 200px;
+}
+
+.nav-link{
+    display: flex;
+    justify-content: center;
+    padding:40px;
+}
+
+.mentero-text{
+    color: white;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    color: grey;
+    display: flex;
+    font-size: 10px;
+}
+
+.first >li:first-child{
+    padding-left: 60px;
+}
+
+.first>li{
+    padding-left: 10px;
+    padding-top: 25px;
+}
+
+.second{
+    display: flex;
+    font-size: small;
+}
+
+.second>li{
+    padding: 20px;
+}
+
+.third{
+    color: grey;
+    display: flex;
+    padding-top: 20px;
+    padding-right: 120px;
+    font-size: 10px;
+}
+
+hr{
+    border: 1px solid grey;
+    width: 92%;
+}
+
+.line{
+    padding-left:57px;
+}
+
